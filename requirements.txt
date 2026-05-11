@@ -18,3 +18,4 @@ yagmail
 langchain
 langgraph
 langchain-community
+langchain-groq
