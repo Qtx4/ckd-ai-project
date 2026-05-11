@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+shap
+matplotlib
+lightgbm==4.3.0
+xgboost==2.0.3
+catboost
+imbalanced-learn
+fpdf2
+requests
+python-dotenv
+supabase
+streamlit-lottie

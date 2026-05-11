@@ -1,0 +1,11 @@
+CKD Stage 1: eGFR >= 90 kidney damage mild
+CKD Stage 2: 60-89 mild reduction kidney function
+CKD Stage 3: moderate kidney disease anemia risk
+CKD Stage 4: severe kidney failure dialysis preparation
+CKD Stage 5: end stage renal disease dialysis required
+
+Diet:
+low sodium, low protein, avoid NSAIDs
+
+Symptoms:
+fatigue, swelling, high creatinine

@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+models/
+catboost_info/
+shap_plots/
+*.joblib
+*.pdf
